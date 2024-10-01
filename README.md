@@ -1,3 +1,5 @@
+Live Project link: https://react-movie-app-6lmj.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
